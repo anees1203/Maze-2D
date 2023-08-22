@@ -1,7 +1,0 @@
-
-public class MazeGUI {
-	public static void main(String[] args){
-		 int level = 10; 
-        new MazeFrame(level);
-	}
-}
